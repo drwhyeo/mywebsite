@@ -1,4 +1,4 @@
-## Welcome to Dr Yeo Wei Hong Pages
+## Welcome to Dr Yeo Wei Hong MED Pages
 
 You can use the [editor on GitHub](https://github.com/drwhyeo/mywebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
